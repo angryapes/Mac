@@ -2,7 +2,7 @@
 
 ###Xcode
 ##### Xcode手动清理
-打开Finder使用快捷键command+shift+g输入路径即可进入该文件夹
+打开Finder使用快捷键command+shift+g输入路径进入相应文件夹
 
 1. 移除DerivedData,建议定期清理，会重新生成
 
